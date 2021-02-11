@@ -11,6 +11,9 @@ One thing led to another, and now I'm a full time Developer!
 ### ⚡️ Current Stuff:
 - I’m currently building a new public facing site for Anivive Lifesciences. ***(Coming soon!)***
 
+### :computer: Open Source Projects / Contributions
+- [Create Vue 3 Package Starter](https://github.com/Anivive/create-vue3-package)
+
 ### 🔥 Things I use on a daily basis:
 - Vue 3
 - Typescript / Javascript
@@ -26,6 +29,3 @@ One thing led to another, and now I'm a full time Developer!
 - GSAP
 - Locomotive Scroll
 - Axios
-
-### Projects I have worked on
-- [Open Source - Create Vue 3 Package Starter](https://github.com/Anivive/create-vue3-package)
