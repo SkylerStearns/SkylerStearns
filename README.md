@@ -9,26 +9,23 @@ One thing led to another, and now I'm a full time Developer!
 ```
 
 ### ⚡️ Current Stuff:
-- I’m currently working on building a new public facing site for Anivive. ***(Coming soon!)***
-- I’m currently learning Node/Express backend stuff in my free time.
+- I’m currently building a new public facing site for Anivive Lifesciences. ***(Coming soon!)***
 
 ### 🔥 Things I use on a daily basis:
 - Vue 3
 - Typescript / Javascript
 - SASS
 - Flexbox
-- Bootstrap Utility Classes (Ex: d-flex, justify-content-between, m-0, position-absolute, etc.)
+- Bootstrap
 - Font Awesome
 - Jira
 - Invision / Figma
 
 ### 😄 Things I often use and am familiar with:
-- Cypress.io (End-to-End automated testing)
-- GSAP (Green Sock Animation Platform)
+- Cypress.io
+- GSAP
+- Locomotive Scroll
 - Axios
 
-### 📚 Things I am learning:
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose.js
+### Projects I have worked on
+- [Open Source - Create Vue 3 Package Starter](https://github.com/Anivive/create-vue3-package)
