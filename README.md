@@ -2,11 +2,9 @@
 
 
 ### 😎 Quick Bio:
-```
 I started my Web Development Career as a Quality Assurance Engineer in mid 2019.
 As I became more comfortable with discovering bugs and diagnosing issues for my team, I took the next step, and began learning how to fix them myself.
 One thing led to another, and now I'm a full time Full Stack Developer!
-```
 
 ### Current Projects:
 - [Anivive.com](https://www.anivive.com)
