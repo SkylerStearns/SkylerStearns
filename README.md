@@ -14,18 +14,19 @@ One thing led to another, and now I'm a full time Full Stack Developer!
 ### :computer: Open Source Projects / Contributions
 - [Create Vue 3 Package Starter](https://github.com/Anivive/create-vue3-package)
 
-### Tools I use on a daily basis:
+### Stuff I use on a daily basis:
 - Frameworks: [React](https://react.dev/)
 - Front End Styling: [SASS](https://sass-lang.com/)
 - Responsiveness: [Bootstrap](https://getbootstrap.com/)
+- Database Stuff: [Prisma](https://www.prisma.io/)
 - Misc: [Typescript](https://www.typescriptlang.org/)
 
-### Packages I use often:
+### Stuff I use often:
 - Microservices: [Moleculer](https://moleculer.services/)
-- Backend: [Node.js](https://nodejs.org/en)
+- Server Stuff: [Node.js](https://nodejs.org/en)
 - Unit Testing: [Jest](https://jestjs.io/)
 
-### Things I have worked with in the past and have experience with:
+### Stuff I have worked with in the past and have experience with:
 - Frameworks: [Vue](https://locomotivemtl.github.io/locomotive-scroll/)
 - Functional Testing: [Cypress.io](https://www.cypress.io/)
 - Animation: [GSAP](https://greensock.com/gsap/) and [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
